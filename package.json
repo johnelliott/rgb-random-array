@@ -1,0 +1,27 @@
+{
+  "name": "rgb-random-array",
+  "version": "1.0.0",
+  "description": "get a random RGB color as JS array",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnelliott/rgb-random-array.git"
+  },
+  "keywords": [
+    "color",
+    "random",
+    "visualization",
+    "rgb"
+  ],
+  "author": "john elliott",
+  "license": "MIT",
+  "dependencies": {
+    "randomcolor": "^0.4.4"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
