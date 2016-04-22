@@ -1,5 +1,5 @@
 var test = require('tape')
-var rc = require('../index.js')
+var rc = require('../random.js')
 
 test('returns rgb array', function (t) {
   t.plan(11)
