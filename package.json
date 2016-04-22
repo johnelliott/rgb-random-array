@@ -1,6 +1,6 @@
 {
   "name": "rgb-random-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get a random RGB color as JS array",
   "main": "random.js",
   "scripts": {
@@ -25,4 +25,3 @@
     "tape": "^4.5.1"
   }
 }
-
