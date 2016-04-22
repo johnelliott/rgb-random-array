@@ -1,4 +1,4 @@
-# rbg-random-array
+# rgb-random-array
 
 get a random RGB color as JS array
 
